@@ -26,7 +26,7 @@
 <details>
 <summary> 분석 보고서</summary>
 
-- [NASA_챌린지_결과보고서](./NASA%챌린지%결과보고서.docx)
+- [NASA_챌린지_결과보고서](./NASA_챌린지_결과보고서.docx)
 
 </details>
 
